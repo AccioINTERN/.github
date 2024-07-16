@@ -37,6 +37,9 @@ Upon completing your project:
 2. Enter your GitHub username to receive an invitation from the AccioINTERN organization.
 3. Accept the invitation and upload your completed project to our GitHub repository.
 
+## Contributing
+
+Contributions are welcome! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
 ## License
 
 This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. For more details, see [LICENSE](https://github.com/AccioINTERN/.github/blob/main/LICENSE).
