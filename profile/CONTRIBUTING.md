@@ -43,7 +43,7 @@ Upon completing your project:
 
 ## License
 
-This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. For more details, see [LICENSE](path/to/license).
+This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. For more details, see [LICENSE](https://github.com/AccioINTERN/.github/blob/main/LICENSE).
 
 ---
 
