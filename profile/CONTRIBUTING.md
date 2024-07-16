@@ -1,4 +1,4 @@
-# AccioINTERN - Best Contribution Guide
+# AccioINTERN - Contribution Guide
 
 Welcome to AccioINTERN, your gateway to gaining practical experience through virtual internships. Whether you are a student or a beginner, we provide project tasks tailored to your skills, helping you build your portfolio and enhance your employability.
 
